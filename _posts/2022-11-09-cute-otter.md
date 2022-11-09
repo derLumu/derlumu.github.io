@@ -9,7 +9,7 @@ tags: "cute otter"
 
 Hier ist ein Bild von einem Otter. Viel Spaß:
 ![Otter](/pictures/otter.jpg)
-ZugegebenUntil we meet again...
+Until we meet again...
 
 PS: Der Abschnitt bis hier ist in einem super einfachen Format geschrieben
 
